@@ -1,0 +1,31 @@
+{
+  "name": "getir-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitgupta11919/getir-assignment.git"
+  },
+  "author": "Mohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohitgupta11919/getir-assignment/issues"
+  },
+  "homepage": "https://github.com/mohitgupta11919/getir-assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.5",
+    "supertest": "^6.1.6",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "jest": "^27.4.7"
+  }
+}
